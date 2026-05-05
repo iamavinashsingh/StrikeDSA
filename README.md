@@ -13,3 +13,6 @@ Next class
 3: https://strikes.in/practice/68b7d56cb2f9a3f3c5f2d0b3
 4: https://strikes.in/practice/68b722c6f8806368c9d8ddc2
 
+
+<!-- STL Sheet -->
+https://www.notion.so/STL-in-C-356a9af81c98808b8a9fcff45b6c27d3?source=copy_link
